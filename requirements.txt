@@ -13,7 +13,6 @@ django-autocomplete-light==1.4.9
 PyYAML==3.10
 pytz==2013.8
 pytils==0.3
-django-bootstrap3==2.0.0
 django-genericadmin==0.6.1
 django-admin-sortable2==0.3.3
 django-skd-tools==0.0.8
@@ -25,9 +24,7 @@ django-classy-tags==0.4
 django-compressor==1.4
 django-storages==1.1.8
 Collectfast==0.2.1
-s3cmd==1.5.0-alpha3
 lxml==3.2.4
-BeautifulSoup==3.2.1
 boto==2.24.0
 django-sphinx==2.2.4
 django-robots-txt==0.4
